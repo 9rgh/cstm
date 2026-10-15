@@ -1,5 +1,3 @@
-getgenv().SALT_KEY = "mac-cstm-9rgh"
-
 local BASE = "https://raw.githubusercontent.com/9rgh/cstm/main/"
 
 local FILES = {
